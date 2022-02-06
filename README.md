@@ -22,7 +22,6 @@ This can also be done on an online server, it will not be detailed here.
 7. go to http://localhost/DocProject/ in your favorite browser
 8. you can now use the functions offered on the main page
 
----
 ## authors
 
 Pierre-Louis Létoquart  
